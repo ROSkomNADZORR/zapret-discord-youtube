@@ -1,4 +1,4 @@
 # obhod-discord-youtube
-"Plug & Play" обход блокировок иностранных платформ, <img height="14" width="50" src="https://unpkg.com/simple-icons@v15/icons/discord.svg" /> Discord и YouTube для Windows 10 и 11
+"Plug & Play" обход блокировок иностранных платформ, <img height="14" width="10" src="https://unpkg.com/simple-icons@v15/icons/discord.svg" /> Discord и YouTube для Windows 10 и 11
 <h3>Использование<h3>
 1. Загрузите архив zip со страницы последнего релиза
