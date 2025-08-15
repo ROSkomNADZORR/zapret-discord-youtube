@@ -1,4 +1,3 @@
-# zapret-discord-youtube
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+# obhod-discord-youtube
+"Plug & Play" обход блокировок иностранных платформ, Discord и YouTube для Windows 10 и 11
+<h3>Использование<h3>
