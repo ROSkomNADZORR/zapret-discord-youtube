@@ -3,4 +3,4 @@
 <h3>Использование<h3>
 1. Загрузите архив zip со страницы последнего релиза
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#fc0303" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/red" />
